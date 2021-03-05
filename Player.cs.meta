@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 145104e8f052bce45b0072e264e15ba7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _basicShot: {fileID: 5924497396892926148, guid: 6d56e84c694ab1141ba73669658cab84,
+      type: 3}
+  - _missile: {fileID: 1639243938858752666, guid: 97e63dcf96c708040bfa75b26b1342a9,
+      type: 3}
+  - _missileII: {fileID: 5600234155861538878, guid: 0a3e951793226794993b4d1197b61446,
+      type: 3}
+  - _spawnManager: {instanceID: 0}
+  - laser_BA: {instanceID: 0}
+  - lightSpot: {instanceID: 0}
+  - laserSound: {fileID: 8300000, guid: 0afe2da8df09fd94e8ebc17abf2641da, type: 3}
+  - _concentration: {instanceID: 0}
+  - _concentrationII: {instanceID: 0}
+  - concentrationSound: {fileID: 8300000, guid: a51314f3ba7f6914ab4ab00bc2f20fe1,
+      type: 3}
+  - concentrationSound_II: {fileID: 8300000, guid: 5a9b231f717b7be48bba2ee5fa6cb35f,
+      type: 3}
+  - powerShot_I: {instanceID: 0}
+  - lightSpot_I: {instanceID: 0}
+  - powerShot_II: {instanceID: 0}
+  - superShotSound_I: {fileID: 8300000, guid: bc37399a41a8b3e4391f38d98b5b7d0e, type: 3}
+  - superShotSound_II: {fileID: 8300000, guid: 85a3a14f096540c4084333402e7807f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
